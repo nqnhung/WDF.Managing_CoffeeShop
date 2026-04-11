@@ -8,7 +8,7 @@
 
 **User Stories & Requirement:** [View](https://docs.google.com/spreadsheets/d/1wkSrKderfSGazSK8zwT1Hahyw3pB7BtDi-_IfSJUwlc/edit?gid=0#gid=0)
 
-**Test Cases** | 🔄 In progress |
+**Test Cases** [View](https://docs.google.com/spreadsheets/d/1wkSrKderfSGazSK8zwT1Hahyw3pB7BtDi-_IfSJUwlc/edit?gid=446127749#gid=446127749)
 
 **Bug Report** | 🔄 Coming soon |
 
