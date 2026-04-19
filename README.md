@@ -12,4 +12,4 @@
 
 **Bug Report** | 🔄 Coming soon |
 
-**Test Plan**  | 🔄 Coming soon |
+**Test Plan**  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[View](https://docs.google.com/spreadsheets/d/1wkSrKderfSGazSK8zwT1Hahyw3pB7BtDi-_IfSJUwlc/edit?gid=1570775969#gid=1570775969)
