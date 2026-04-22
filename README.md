@@ -1,11 +1,9 @@
-**☕ Managing Coffee Shop**
-
-<p align="center">
+<h2 align="center">☕ Managing Coffee Shop</h2>
+<div align="center">
   <img src="https://github.com/user-attachments/assets/b4841372-a15d-4372-9007-850031c2768c" width="300">
-</p>
 <hr>
 
-**Project Overview:** This is an online coffee ordering platform for a small-to-medium cafe chain. Customer can browse the menu, cutomise drinks, pay online, and track their order in real-time from Pending through to Campleted.
+**Project Overview:** This is an online coffee ordering platform for a small-to-medium cafe chain. Customer can browse the menu, cutomise drinks, pay online, and track their order in real-time from Pending through to Completed.
 
 **📂 Project Assets**
 
@@ -14,3 +12,4 @@
 [![Test Cases 2](https://img.shields.io/badge/Test%20Cases%20(Module%202)-2E86C1?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://docs.google.com/spreadsheets/d/1wkSrKderfSGazSK8zwT1Hahyw3pB7BtDi-_IfSJUwlc/edit?gid=1051263718#gid=1051263718)
 [![Test Plan](https://img.shields.io/badge/Test%20Plan-239B56?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/spreadsheets/d/1wkSrKderfSGazSK8zwT1Hahyw3pB7BtDi-_IfSJUwlc/edit?gid=1570775969#gid=1570775969)
 ![Bug Report](https://img.shields.io/badge/Bug%20Report-Coming%20Soon-lightgrey?style=for-the-badge&logo=jira)
+</div>
