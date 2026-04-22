@@ -1,7 +1,8 @@
 **☕ Managing Coffee Shop**
 
-
-<img src="https://github.com/user-attachments/assets/b4841372-a15d-4372-9007-850031c2768c" width="300">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b4841372-a15d-4372-9007-850031c2768c" width="300">
+</p>
 <hr>
 
 **Project Overview:** This is an online coffee ordering platform for a small-to-medium cafe chain. Customer can browse the menu, cutomise drinks, pay online, and track their order in real-time from Pending through to Campleted.
